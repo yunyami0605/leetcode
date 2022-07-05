@@ -1,0 +1,22 @@
+{
+  "Print to console": {
+    "scope": "javascript,typescript",
+    "prefix": "aa_lg",
+    "body": [
+      "/**",
+      "* title : ",
+      "* Runtime :  ",
+      "* Memory :  ",
+      "* Description: ",
+      "\t",
+      "* Constraints: ",
+      "\t",
+
+      "* example",
+      "\t",
+
+      "*/"
+    ],
+    "description": "Log output to console"
+  }
+}
