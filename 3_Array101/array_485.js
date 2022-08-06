@@ -1,5 +1,5 @@
 /**
-* title : Max Consecutive Ones
+* title : 485. Max Consecutive Ones
 * Runtime :  
 * Memory :  
 * Description: 
